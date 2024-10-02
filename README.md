@@ -14,6 +14,6 @@
 
 | No  | Latihan    | Detail                                 |
 |-----|------------|----------------------------------------|
-| 01  | Latihan 1  | Belajar NEXT 13 JS App Router          |
+| 01  | Latihan 1  | Belajar NEXT JS 13 App Router          |
 
 ---
