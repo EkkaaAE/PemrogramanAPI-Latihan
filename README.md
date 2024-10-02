@@ -1,10 +1,11 @@
 ## Data Diri
 
-| Field          | Data                                                      |
-|----------------|-----------------------------------------------------------|
-| NIM            | 22104410012                                               |
-| Nama Lengkap   | [ALDY IBNU FAIZAL](https://github.com/Aldyfaisal80)        |
-| Kelas          | TI-5A                                                     |
+| Field          | Data                                                                      |
+|----------------|---------------------------------------------------------------------------|
+| Nama Lengkap   | [EKA PRASETIAWAN](https://github.com/EkkaaAE)                             |
+| NIM            | 22104410028                                                               |
+| Kelas          | TEKNIK INFORMATIKA - 5A                                                   |
+| Matkul         | PEMROGRAMAN API                                                           |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., M.Tr.T](https://github.com/fariedrahmat) |
 
 ## PEMROGRAMAN API
@@ -13,6 +14,6 @@
 
 | No  | Latihan    | Detail                                 |
 |-----|------------|----------------------------------------|
-| 01  | Latihan 1  | Belajar NEXT JS App Router             |
+| 01  | Latihan 1  | Belajar NEXT 13 JS App Router          |
 
 ---
